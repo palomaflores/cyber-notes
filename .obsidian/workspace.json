@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GLOSSÁRIO.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GLOSSÁRIO"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GLOSSÁRIO.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para GLOSSÁRIO"
+              "title": "Links inversos para README"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GLOSSÁRIO.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para GLOSSÁRIO"
+              "title": "Links de saída para README"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GLOSSÁRIO.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de GLOSSÁRIO"
+              "title": "Sumário de README"
             }
           }
         ]
@@ -170,9 +170,9 @@
   },
   "active": "52050c0a2ccf1ec8",
   "lastOpenFiles": [
+    "GLOSSÁRIO.md",
     "README.md",
     "FUNDAMENTOS.md",
-    "GLOSSÁRIO.md",
     "TRILHA GOOGLE CYBERSECURITY.md",
     "VÍRUS BRAIN E WORM MORRIS.md",
     "IMAGENS/trilha.png",
