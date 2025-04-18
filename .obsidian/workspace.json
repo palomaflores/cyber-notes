@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "b7dba7a19cec5270",
+    "type": "split",
+    "children": [
+      {
+        "id": "33ae181810dc8731",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52050c0a2ccf1ec8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf8a3899da4bd247",
+    "type": "split",
+    "children": [
+      {
+        "id": "33fd0656a22f6a47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74ad21d3f854415b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "d9b29854d2ba58a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#GoogleCybersecurity",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "9f50fede9d244a20",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 210
+  },
+  "right": {
+    "id": "25de422525923f9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7dc32e40ceaaca55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9646087b9898bdd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos para README.md"
+            }
+          },
+          {
+            "id": "94b7faac0e7c304d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída para README.md"
+            }
+          },
+          {
+            "id": "92aebab81ecdd17b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c6e085f178eb5db3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário de README.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "52050c0a2ccf1ec8",
+  "lastOpenFiles": [
+    "GLOSSÁRIO.md",
+    "TRILHA GOOGLE CYBERSECURITY.md",
+    "README.md.md",
+    "VÍRUS BRAIN E WORM MORRIS.md",
+    "FUNDAMENTOS.md",
+    "IMAGENS/trilha.png",
+    "GOOGLE CYBERSECURITY/GOOGLE CYBERSECURITY.md",
+    "AMEAÇAS.md",
+    "IMAGENS",
+    "GOOGLE CYBERSECURITY",
+    "GOOGLE CYBERSECURITY",
+    "TESTE 1",
+    "TESTE",
+    "OWASP/TESTE.md",
+    "OWASP/VULNERABILIDADES",
+    "OWASP/ATAQUES",
+    "OWASP",
+    "OWASP.md",
+    "OWASP/Sem título.canvas",
+    "OWASP",
+    "org.md",
+    "().md",
+    "OWASP",
+    "Bem-vindo.md"
+  ]
+}
