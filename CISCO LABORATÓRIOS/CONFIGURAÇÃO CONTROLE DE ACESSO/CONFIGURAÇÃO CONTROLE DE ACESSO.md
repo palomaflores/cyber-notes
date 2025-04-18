@@ -1,4 +1,4 @@
-# Documentação Técnica - Laboratório Cisco
+# Documentação Técnica - Laboratório CONFIGURAÇÃO CONTROLE DE ACESSO
 ## Segurança de Rede com AAA, E-mail e FTP
 ##### Objetivo Geral
 Configurar e validar mecanismos de autenticação (AAA), comunicação via e-mail (SMTP/POP3) e transferência de arquivos (FTP), implementando autenticação de usuários e controle de privilégios.

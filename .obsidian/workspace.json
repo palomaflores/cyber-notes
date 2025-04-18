@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "33ae181810dc8731",
+        "id": "d34d7a3c4ad82f5e",
         "type": "tabs",
         "children": [
           {
-            "id": "e6d0ebe0456c4998",
+            "id": "faf214e68a0bed56",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CISCO LABORATÓRIOS/CONFIGURAÇÃO CONTROLE DE ACESSO/CONFIGURAÇÃO CONTROLE DE ACESSO.md",
+                "file": "CISCO LABORATÓRIOS/AUTENTICAÇÃO SERVIDOR TACACS E RADIUS/AUTENTICAÇÃO SERVIDOR TACACS E RADIUS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CONFIGURAÇÃO CONTROLE DE ACESSO"
+              "title": "AUTENTICAÇÃO SERVIDOR TACACS E RADIUS"
             }
           }
         ]
@@ -168,11 +168,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "74ad21d3f854415b",
+  "active": "faf214e68a0bed56",
   "lastOpenFiles": [
+    "CISCO LABORATÓRIOS/CONFIGURAÇÃO CONTROLE DE ACESSO/CONFIGURAÇÃO CONTROLE DE ACESSO.md",
+    "CISCO LABORATÓRIOS/AUTENTICAÇÃO SERVIDOR TACACS E RADIUS/AUTENTICAÇÃO SERVIDOR TACACS E RADIUS.md",
+    "CISCO LABORATÓRIOS/AUTENTICAÇÃO SERVIDOR TACACS E RADIUS/IMAGENS",
+    "GOOGLE CYBERSECURITY/TRILHA GOOGLE CYBERSECURITY.md",
+    "CISCO LABORATÓRIOS/AUTENTICAÇÃO SERVIDOR TACACS E RADIUS",
+    "Sem título",
+    "GOOGLE CYBERSECURITY/GOOGLE CYBERSECURITY.md",
+    "GOOGLE CYBERSECURITY/IMAGENS/trilha.png",
     "CISCO LABORATÓRIOS/CONFIGURAÇÃO CONTROLE DE ACESSO/IMAGENS/Pasted image 20250418020319.png",
     "CISCO LABORATÓRIOS/CONFIGURAÇÃO CONTROLE DE ACESSO/IMAGENS/Pasted image 20250418020430.png",
-    "CISCO LABORATÓRIOS/CONFIGURAÇÃO CONTROLE DE ACESSO/CONFIGURAÇÃO CONTROLE DE ACESSO.md",
     "Pasted image 20250418020402.png.md",
     "IMAGENS/Pasted image 20250418020402.png",
     "CISCO LABORATÓRIOS/CONFIGURAÇÃO CONTROLE DE ACESSO/IMAGENS/Pasted image 20250418020515.png",
@@ -183,13 +190,9 @@
     "CISCO LABORATÓRIOS/CONFIGURAÇÃO CONTROLE DE ACESSO/IMAGENS/Pasted image 20250418014823.png",
     "CISCO LABORATÓRIOS/CONFIGURAÇÃO CONTROLE DE ACESSO/IMAGENS",
     "CISCO LABORATÓRIOS/Sem título/Sem título.md",
-    "GOOGLE CYBERSECURITY/IMAGENS/trilha.png",
     "CISCO LABORATÓRIOS/CONFIGURAÇÃO CONTROLE DE ACESSO",
-    "GOOGLE CYBERSECURITY/TRILHA GOOGLE CYBERSECURITY.md",
     "GOOGLE CYBERSECURITY/IMAGENS",
-    "GOOGLE CYBERSECURITY/GOOGLE CYBERSECURITY.md",
     "README.md",
-    "Sem título",
     "GLOSSÁRIO.md",
     "FUNDAMENTOS.md",
     "().md",
@@ -203,11 +206,9 @@
     "LABORATÓRIOS CISCO/5. AUTENTICAÇÃO E AUTORIZAÇÃO NO LINUX.md",
     "Sem título.md",
     "LABORATÓRIOS",
-    "GOOGLE CYBERSECURITY",
     "Sem título 1.md",
     "VÍRUS BRAIN E WORM MORRIS.md",
     "AMEAÇAS.md",
-    "IMAGENS",
     "OWASP/TESTE.md",
     "OWASP.md",
     "OWASP/Sem título.canvas",
