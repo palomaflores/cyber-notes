@@ -23,7 +23,7 @@ Estas são algumas das plataformas e recursos que tenho usado ao longo da minha 
 # Estrutura
 Cada pasta representa uma área diferente de estudo, com notas, listas de verificação, diagramas e caminhos de aprendizagem.
 
-- [[FUNDAMENTOS]]
-- [[GLOSSÁRIO]]
+- [FUNDAMENTOS](https://github.com/palomaflores/cyber-notes/blob/main/FUNDAMENTOS.md)
+- [GLOSSÁRIO](https://github.com/palomaflores/cyber-notes/blob/main/GLOSS%C3%81RIO.md)
 
 
