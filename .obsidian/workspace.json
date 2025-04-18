@@ -13,32 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
+                "file": "GLOSSÁRIO.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          }
-        ]
-      },
-      {
-        "id": "9cc5508ea2b65d30",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d9da19f1ae56266b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CISCO LABORATÓRIOS/CONFIGURAÇÃO CONTROLE DE ACESSO.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CONFIGURAÇÃO CONTROLE DE ACESSO"
+              "title": "GLOSSÁRIO"
             }
           }
         ]
@@ -190,7 +170,12 @@
   },
   "active": "52050c0a2ccf1ec8",
   "lastOpenFiles": [
+    "FUNDAMENTOS.md",
+    "README.md",
+    "GLOSSÁRIO.md",
+    "().md",
     "CISCO LABORATÓRIOS/CONFIGURAÇÃO CONTROLE DE ACESSO.md",
+    "IMAGENS/Blue Futuristic Cyber Security Presentation.png",
     "IMAGENS/trilha.png",
     "IMAGENS/Pasted image 20250418020853.png",
     "IMAGENS/Pasted image 20250418020726.png",
@@ -200,7 +185,6 @@
     "IMAGENS/Pasted image 20250418020430.png",
     "IMAGENS/Pasted image 20250418020402.png",
     "IMAGENS/Pasted image 20250418020319.png",
-    "IMAGENS/Pasted image 20250418014823.png",
     "CISCO LABORATÓRIOS/rascunho.md",
     "CISCO LABORATÓRIOS",
     "LABORATÓRIOS CISCO/3. CONFIGURAÇÃO DO CONTROLE DE ACESSO.md",
@@ -209,12 +193,9 @@
     "LABORATÓRIOS CISCO/1. PROBLEMAS DE SEGURANÇA DIGITAL EMPRESARIAL.md",
     "LABORATÓRIOS CISCO/2. INVESTIGAÇÃO OWASP.md",
     "LABORATÓRIOS CISCO/5. AUTENTICAÇÃO E AUTORIZAÇÃO NO LINUX.md",
-    "FUNDAMENTOS.md",
     "Sem título.md",
-    "GLOSSÁRIO.md",
     "GOOGLE CYBERSECURITY/TRILHA GOOGLE CYBERSECURITY.md",
     "GOOGLE CYBERSECURITY/GOOGLE CYBERSECURITY.md",
-    "README.md",
     "LABORATÓRIOS",
     "GOOGLE CYBERSECURITY",
     "Sem título 1.md",
@@ -229,7 +210,6 @@
     "OWASP.md",
     "OWASP/Sem título.canvas",
     "org.md",
-    "().md",
     "Bem-vindo.md"
   ]
 }

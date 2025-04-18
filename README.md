@@ -1,5 +1,7 @@
 # Meus estudos, anotações e ferramentas para Cibersegurança
-Bem-vindo ao meu **cofre de cibersegurança** — uma coleção pessoal de anotações, referências e ferramentas que venho organizando durante meus estudos focados na área de Cibersegurança. Todo o conteúdo está estruturado e mantido no **Obsidian**, que uso como minha principal ferramenta de gestão do conhecimento.
+![[Blue Futuristic Cyber Security Presentation.png]]
+
+Boas-vindas ao meu **cofre de cibersegurança** — uma coleção pessoal de anotações, referências e ferramentas que venho organizando durante meus estudos focados na área de Cibersegurança. Todo o conteúdo está estruturado e mantido no [Obsidian](https://obsidian.md/download), que uso como minha principal ferramenta de gestão do conhecimento.
 
 Algumas pastas podem conter notas incompletas ou em andamento — esse repositório está em constante evolução e será atualizado conforme meu progresso. 
 Sinta-se à vontade para explorar, utilizar ou até contribuir se quiser!
@@ -19,5 +21,3 @@ Estas são algumas das plataformas e recursos que tenho usado ao longo da minha 
 - [Range Force](https://www.rangeforce.com/)
 - [Security Blue Team](https://www.securityblue.team/)
 - [OWASP](https://owasp.org/)
-
----
