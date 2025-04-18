@@ -20,6 +20,4 @@ Estas são algumas das plataformas e recursos que tenho usado ao longo da minha 
 - [Security Blue Team](https://www.securityblue.team/)
 - [OWASP](https://owasp.org/)
 
-# Arquivos
-
 ---
