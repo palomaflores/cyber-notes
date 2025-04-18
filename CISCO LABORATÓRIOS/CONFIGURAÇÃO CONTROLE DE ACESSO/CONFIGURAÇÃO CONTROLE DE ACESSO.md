@@ -24,8 +24,7 @@ Configurar e validar mecanismos de autenticação (AAA), comunicação via e-mai
 - Senha: `PASSuser1!`
 - Obter IP via DHCP 
     **Validação:** IP deve estar na rede `169.254.226.110`
-
-![[Pasted image 20250418020402.png]]
+    
 ### 1.3. Configurar autenticação sem fio HQ-Laptop-2
 **Dispositivo:** HQ-Laptop-2
 **Procedimentos:**
