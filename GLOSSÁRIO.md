@@ -1,4 +1,4 @@
-# Glossário Cyber
+# Glossário
 **Cibersegurança** - Prática de garantir a confidencialidade, integridade e disponibilidade das informações, protegendo redes, dispositivos, pessoas e dados contra o acesso não autorizado ou a exploração criminosa
 
 **Conformidade** - Seguir normas e leis para evitar multas e violações de segurança
@@ -28,3 +28,5 @@
 **Ameaça:** Qualquer circunstância ou evento que possa afetar negativamente os recursos
 
 **Habilidades transferíveis:** Habilidades de outras áreas que podem ser aplicadas a diferentes carreiras
+
+#CYBER 

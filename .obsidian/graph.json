@@ -6,7 +6,22 @@
   "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "tag:#CYBER  ",
+      "color": {
+        "a": 1,
+        "rgb": 9463011
+      }
+    },
+    {
+      "query": "file: README",
+      "color": {
+        "a": 1,
+        "rgb": 15780996
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -17,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1,
+  "scale": 0.3628873693012122,
   "close": true
 }

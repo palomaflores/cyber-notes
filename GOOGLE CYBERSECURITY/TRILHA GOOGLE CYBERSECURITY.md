@@ -50,3 +50,5 @@ Este arquivo contém a **trilha completa do programa de certificação em cibers
 - Obter vantagem competitiva com habilidades de IA ensinadas por especialistas do Google
 
 ![[trilha.png]]
+
+#CYBER 

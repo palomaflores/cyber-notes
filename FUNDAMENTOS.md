@@ -1,5 +1,4 @@
 # Tríade CIA
-
 **Cibersegurança** é a prática de proteger redes, dispositivos e dados contra acesso não autorizado ou exploração criminosa, garantindo **confidencialidade, integridade e disponibilidade** das informações.
 Ex: Usar senhas fortes ajuda a garantir a confidencialidade.
 
@@ -95,4 +94,4 @@ Algumas habilidades técnicas essenciais para profissionais de segurança cibern
 
 6. Profissionais da área ajudam a garantir a confidencialidade, integridade e acesso seguro às informações.
 
-
+#CYBER 
