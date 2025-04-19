@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINUX/GIT/GIT COMANDOS/GIT ADD.md",
+                "file": "LINUX/GIT/GIT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GIT ADD"
+              "title": "GIT"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "3ca09450d29eed7c",
   "lastOpenFiles": [
+    "LINUX/GIT/GIT COMANDOS/GIT ADD.md",
     "LINUX/GIT/GIT COMANDOS/GIT COMMIT.md",
     "LINUX/GIT/GIT COMANDOS/GIT INIT.md",
     "LINUX/GIT/GIT COMANDOS/GIT HELP.md",
@@ -177,7 +178,6 @@
     "LINUX/GIT/GIT COMANDOS/GIT REMOTE.md",
     "LINUX/GIT/GIT.md",
     "Pasted image 20250419191436.png",
-    "LINUX/GIT/GIT COMANDOS/GIT ADD.md",
     "LINUX/GIT/GIT COMANDOS/GIT IMAGENS/git init.png",
     "LINUX/GIT/GIT COMANDOS/GIT IMAGENS/git help.png",
     "CISCO/CISCO.md",
