@@ -154,3 +154,4 @@ Comandos
 ## Conclusão
 Este laboratório permite compreender e aplicar conceitos práticos de autenticação, autorização, envio de e-mails e transferência de arquivos com controle de acesso. Todos os serviços foram testados e validados conforme o comportamento esperado no Packet Tracer.
 
+#CISCO #REDES 

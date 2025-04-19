@@ -283,3 +283,5 @@ R2(config-line)#exit
 
 # Conclusão
 ![[Pasted image 20250419000111.png]]
+
+#CISCO #REDES

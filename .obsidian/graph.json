@@ -8,7 +8,7 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#CYBER  ",
+      "query": "tag:#CYBER ",
       "color": {
         "a": 1,
         "rgb": 9463011
@@ -18,20 +18,27 @@
       "query": "file: README",
       "color": {
         "a": 1,
-        "rgb": 15780996
+        "rgb": 14349690
+      }
+    },
+    {
+      "query": "tag:#REDES  ",
+      "color": {
+        "a": 1,
+        "rgb": 14845173
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 0.993229166666667,
+  "lineSizeMultiplier": 0.9421875,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3628873693012122,
+  "scale": 0.508761885579266,
   "close": true
 }

@@ -74,3 +74,5 @@ Password: analyste cyberops
 ![[Pasted image 20250419015413.png]]
 
 ![[Pasted image 20250419015503.png]]
+
+#CISCO #REDES
