@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CISCO LABORATÓRIOS/AUTENTICAÇÃO SERVIDOR TACACS E RADIUS/CONFIGURAÇÃO AAA com TACACS+ e RADIUS.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CONFIGURAÇÃO AAA com TACACS+ e RADIUS"
+              "title": "README"
             }
           }
         ]
@@ -170,6 +170,7 @@
   },
   "active": "faf214e68a0bed56",
   "lastOpenFiles": [
+    "CISCO LABORATÓRIOS/AUTENTICAÇÃO SERVIDOR TACACS E RADIUS/CONFIGURAÇÃO AAA com TACACS+ e RADIUS.md",
     "CISCO LABORATÓRIOS/CONFIGURAÇÃO CONTROLE DE ACESSO/CONFIGURAÇÃO CONTROLE DE ACESSO.md",
     "CISCO LABORATÓRIOS/MONITORAMENTO DE REDE COM SYSLOG, AAA E NETFLOW/MONITORAMENTO DE REDE COM SYSLOG, AAA E NETFLOW.md",
     "CISCO LABORATÓRIOS/MONITORAMENTO DE REDE COM SYSLOG, AAA E NETFLOW/IMAGENS/Pasted image 20250419015503.png",
@@ -182,7 +183,6 @@
     "CISCO LABORATÓRIOS/MONITORAMENTO DE REDE COM SYSLOG, AAA E NETFLOW/IMAGENS/Pasted image 20250419013231.png",
     "Pasted image 20250419012921.png",
     "Pasted image 20250419012916.png",
-    "CISCO LABORATÓRIOS/AUTENTICAÇÃO SERVIDOR TACACS E RADIUS/CONFIGURAÇÃO AAA com TACACS+ e RADIUS.md",
     "README.md",
     "CISCO LABORATÓRIOS/MONITORAMENTO DE REDE COM SYSLOG, AAA E NETFLOW/IMAGENS",
     "CISCO LABORATÓRIOS/MONITORAMENTO DE REDE COM SYSLOG, AAA E NETFLOW",
