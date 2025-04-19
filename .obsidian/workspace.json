@@ -11,12 +11,14 @@
             "id": "faf214e68a0bed56",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "IMAGENS/Blue Futuristic Cyber Security Presentation.png"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Blue Futuristic Cyber Security Presentation"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210
+    "width": 210,
+    "collapsed": true
   },
   "right": {
     "id": "25de422525923f9a",
@@ -168,10 +171,10 @@
   },
   "active": "faf214e68a0bed56",
   "lastOpenFiles": [
+    "IMAGENS/Blue Futuristic Cyber Security Presentation.png",
     "GLOSSÁRIO.md",
     "FUNDAMENTOS.md",
     "README.md",
-    "IMAGENS/Blue Futuristic Cyber Security Presentation.png",
     "CISCO LABORATÓRIOS/MONITORAMENTO DE REDE COM SYSLOG, AAA E NETFLOW/MONITORAMENTO DE REDE COM SYSLOG, AAA E NETFLOW.md",
     "IMAGENS",
     "CISCO LABORATÓRIOS/AUTENTICAÇÃO SERVIDOR TACACS E RADIUS/CONFIGURAÇÃO AAA com TACACS+ e RADIUS.md",
