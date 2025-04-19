@@ -39,6 +39,5 @@ Quando o usuário:
 ## Comandos
 - [GIT HELP](https://github.com/palomaflores/cyber-notes/blob/main/LINUX/GIT/GIT%20COMANDOS/GIT%20HELP.md)
 - [GIT INIT](https://github.com/palomaflores/cyber-notes/blob/main/LINUX/GIT/GIT%20COMANDOS/GIT%20INIT.md)
-- [GIT COMMIT](https://github.com/palomaflores/cyber-notes/blob/main/LINUX/GIT/GIT%20COMANDOS/GIT%20COMMIT.md)
 - [GIT ADD](https://github.com/palomaflores/cyber-notes/blob/main/LINUX/GIT/GIT%20COMANDOS/GIT%20ADD.md)
-
+- [GIT COMMIT](https://github.com/palomaflores/cyber-notes/blob/main/LINUX/GIT/GIT%20COMANDOS/GIT%20COMMIT.md)
