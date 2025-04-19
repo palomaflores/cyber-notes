@@ -1,5 +1,9 @@
 # Meus estudos, anotações e ferramentas para Cibersegurança
 
+<p align="center">
+  <img src="./IMAGENS/Blue Futuristic Cyber Security Presentation.png" alt="Logo" width="600"/>
+</p>
+
 Boas-vindas ao meu **cofre de cibersegurança** — uma coleção pessoal de anotações, referências e ferramentas que venho organizando durante meus estudos focados na área de Cibersegurança. Todo o conteúdo está estruturado e mantido no [Obsidian](https://obsidian.md/download), que uso como minha principal ferramenta de gestão do conhecimento.
 
 Algumas pastas podem conter notas incompletas ou em andamento — esse repositório está em constante evolução e será atualizado conforme meu progresso. 

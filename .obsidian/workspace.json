@@ -11,14 +11,12 @@
             "id": "faf214e68a0bed56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "CISCO LABORATÓRIOS/MONITORAMENTO DE REDE COM SYSLOG, AAA E NETFLOW/MONITORAMENTO DE REDE COM SYSLOG, AAA E NETFLOW.md",
-                "mode": "source",
-                "source": false
+                "file": "IMAGENS/Blue Futuristic Cyber Security Presentation.png"
               },
-              "icon": "lucide-file",
-              "title": "MONITORAMENTO DE REDE COM SYSLOG, AAA E NETFLOW"
+              "icon": "lucide-image",
+              "title": "Blue Futuristic Cyber Security Presentation"
             }
           }
         ]
@@ -170,12 +168,14 @@
   },
   "active": "faf214e68a0bed56",
   "lastOpenFiles": [
+    "GLOSSÁRIO.md",
+    "FUNDAMENTOS.md",
     "README.md",
     "IMAGENS/Blue Futuristic Cyber Security Presentation.png",
+    "CISCO LABORATÓRIOS/MONITORAMENTO DE REDE COM SYSLOG, AAA E NETFLOW/MONITORAMENTO DE REDE COM SYSLOG, AAA E NETFLOW.md",
     "IMAGENS",
     "CISCO LABORATÓRIOS/AUTENTICAÇÃO SERVIDOR TACACS E RADIUS/CONFIGURAÇÃO AAA com TACACS+ e RADIUS.md",
     "CISCO LABORATÓRIOS/CONFIGURAÇÃO CONTROLE DE ACESSO/CONFIGURAÇÃO CONTROLE DE ACESSO.md",
-    "CISCO LABORATÓRIOS/MONITORAMENTO DE REDE COM SYSLOG, AAA E NETFLOW/MONITORAMENTO DE REDE COM SYSLOG, AAA E NETFLOW.md",
     "CISCO LABORATÓRIOS/MONITORAMENTO DE REDE COM SYSLOG, AAA E NETFLOW/IMAGENS/Pasted image 20250419015503.png",
     "CISCO LABORATÓRIOS/MONITORAMENTO DE REDE COM SYSLOG, AAA E NETFLOW/IMAGENS/Pasted image 20250419015413.png",
     "CISCO LABORATÓRIOS/MONITORAMENTO DE REDE COM SYSLOG, AAA E NETFLOW/IMAGENS/Pasted image 20250419015234.png",
@@ -189,7 +189,6 @@
     "CISCO LABORATÓRIOS/MONITORAMENTO DE REDE COM SYSLOG, AAA E NETFLOW",
     "CISCO",
     "CISCO - CONFIGURAÇÃO CONTROLE DE ACESSO.md",
-    "FUNDAMENTOS.md",
     "CISCO LABORATÓRIOS/AUTENTICAÇÃO SERVIDOR TACACS E RADIUS/IMAGENS",
     "GOOGLE CYBERSECURITY/TRILHA GOOGLE CYBERSECURITY.md",
     "CISCO LABORATÓRIOS/AUTENTICAÇÃO SERVIDOR TACACS E RADIUS",
@@ -199,7 +198,6 @@
     "CISCO LABORATÓRIOS/Sem título/Sem título.md",
     "CISCO LABORATÓRIOS/CONFIGURAÇÃO CONTROLE DE ACESSO",
     "GOOGLE CYBERSECURITY/IMAGENS",
-    "GLOSSÁRIO.md",
     "().md",
     "CISCO LABORATÓRIOS/rascunho.md",
     "CISCO LABORATÓRIOS",
