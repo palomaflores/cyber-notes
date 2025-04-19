@@ -12,7 +12,7 @@ git branch
 
 - **Criar uma nova branch:**
 	- Cria uma nova branch a partir da branch atual
-	- NÃO MUDA PARA ESSA BRANCH AUTOMATICAMENTE
+	- **NÃO MUDA PARA ESSA BRANCH AUTOMATICAMENTE**
 
 ```bash
 git branch nome-nova-branch

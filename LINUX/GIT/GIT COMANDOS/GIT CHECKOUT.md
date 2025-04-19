@@ -1,5 +1,5 @@
 # GIT CHECKOUT
-O  `git checkout` serve para trocar de branch, restaura arquivos ou commits e criar uma nova branch (usando comando `-b`)
+O  `git checkout` serve para trocar de branch, restaura arquivos ou commits e criar uma nova branch (comando `-b`)
 
 - **Trocar de branch:**
 	- Muda da branch atual para outra

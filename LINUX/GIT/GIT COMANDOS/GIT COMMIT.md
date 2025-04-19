@@ -1,7 +1,7 @@
 # GIT COMMIT
 O comando `git commit` salva as alterações no histórico do repositório.
-Como ele funciona:
-- Depois de adicionar os arquivos com `git add` o `git commit` registra as alterações em um novo ponto no histórico do projeto, criando um novo *commit* com a mensagem de descrição.
+##### Como funciona? 
+Depois de adicionar os arquivos com `git add` o `git commit` registra as alterações em um novo ponto no histórico do projeto, criando um novo *commit* com a mensagem de descrição.
 
 ```bash
 git commit -m "mensagem de commit"

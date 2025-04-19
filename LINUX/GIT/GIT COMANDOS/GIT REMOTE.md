@@ -14,7 +14,7 @@ git remote
 git remote add origin https://github.com/usuario/repositorio.git
 ```
 
-Obs:
+**Obs:**
 - `origin`: nome padrão do git para repositório remoto
 - O link é a URL do repositório remoto (**HTTPS** ou **SSH**)
 

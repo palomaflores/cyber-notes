@@ -16,7 +16,7 @@ git add .
 git commit -m "mensagem de commit"
 ```
 
-Para iniciar um repositório Git já conectado a um repositório remoto:
+**Para iniciar um repositório Git já conectado a um repositório remoto:**
 ```bash
 git remote add origin [link do prepositório].git
 ```

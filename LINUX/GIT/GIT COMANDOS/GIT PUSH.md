@@ -10,7 +10,7 @@ git push -u origin main
 - `main`: nome da branch que o autor quer enviar
 - `-u`: configura o rastreamento automático entre a branch local e a remota
 
-Comando completo:
+**Comando completo:**
 ```bash
 # Adicionar arquivos
 git add .

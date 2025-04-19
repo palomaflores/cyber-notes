@@ -15,7 +15,7 @@ git merge branch-b
 ```
 
 #### Em caso de conflitos
-**Importante!** Conflitos acontecem quando duas branches modificaram as mesmas linhas ao mesmo tempo
+**Importante:** Conflitos acontecem quando duas branches modificaram as mesmas linhas ao mesmo tempo
 1. **O Git vai mostrar os arquivos em conflito com as marcações:**
 ```
 <<<<<<< HEAD

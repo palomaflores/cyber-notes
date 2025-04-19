@@ -16,12 +16,12 @@ git add .
 ```
 
 
-- Para ver o que mudou e o que está pronto para commitar:
+- **Para ver o que mudou e o que está pronto para commitar:**
 ```bash
 git status
 ```
 
-- Para adicionar novos arquivos e ignorar deletados:
+- **Para adicionar novos arquivos e ignorar deletados:**
 ```bash
 git add -u
 ```
