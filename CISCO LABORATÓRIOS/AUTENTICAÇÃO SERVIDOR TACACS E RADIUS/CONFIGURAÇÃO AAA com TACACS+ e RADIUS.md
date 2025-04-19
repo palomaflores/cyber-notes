@@ -44,7 +44,7 @@ ping 192.168.3.3 # IP PC-C
 ![[Pasted image 20250418215556.png]]
 
 ### 1.2. Configuração de entrada de banco de dados de backup Admin
-- Criar usuário local de backup no R2:
+- **Criar usuário local de backup no R2:**
 	- Va em R2 > CLI > Tecla `Enter`
 	- Senha: `ciscoenpa55`
 	- Entrar no modo de configuração: `configure terminal`
@@ -62,7 +62,7 @@ R2(config)#end
 ![[Pasted image 20250418220422.png]]
 
 ### 1.3. Configuração TACACS+
-- Verificar a configuração do servidor TACACS+:
+- **Verificar a configuração do servidor TACACS+:**
 	- Va em Servidor TACACS+ > Serviços > AAA
 	- Verificar se:
 		- O cliente R2 está listado com a chave `tacacspa55`
@@ -71,7 +71,7 @@ R2(config)#end
 ![[Pasted image 20250418220741.png]]
 
 ### 1.4. Configuração TACACS+ no R2
-- Configurar servidor TACACS+ no R2:
+- **Configurar servidor TACACS+ no R2:**
 	- Ir em R2 > CLI > `Enter`
 	- Entrar no modo privilegiado: `enable`
 	- Entrar no modo de configuração global: `configure terminal`
@@ -89,7 +89,7 @@ R2(config)#end
 
 ![[Pasted image 20250418221415.png]]
 ### 1.5. Autenticação de login AAA para acesso no R2
-- Configurar autenticação de login AAA para o acesso de console no R2:
+- **Configurar autenticação de login AAA para o acesso de console no R2:**
 	- Ir em R2 > CLI
 	- Entrar no modo privilegiado: `enable`
 	- Entrar no modo de configuração global: `configure terminal`
@@ -113,7 +113,7 @@ R2(config-line)#exit
 ![[Pasted image 20250418222326.png]]
 
 ### 1.6. Configuração das linhas vty para usar  autenticação AAA definido
-- Configurar as linhas vty com AAA:
+- **Configurar as linhas vty com AAA:**
 	- Ir em R2 > CLI
 	- Entrar no modo privilegiado: `enable`
 	- Entrar no modo de configuração global: `configure terminal`
@@ -135,7 +135,7 @@ R2(config)#end
 ![[Pasted image 20250418222950.png]]
 
 ### 1.7. Verificar autenticação AAA
-- Verificar login EXEC usando servidor TACACS+:
+- **Verificar login EXEC usando servidor TACACS+:**
 	- Entrar no modo privilegiado: `enable`
 	- Entrar no modo de configuração global: `configure terminal`
 	- Criar AAA: `aaa new-model`
@@ -167,7 +167,7 @@ R2(config-line)#exit
 ![[Pasted image 20250418224512.png]]
 # Parte 2 - Configuração AAA usando RADIUS no R3
 ### 1.1. Configuração da base de dados de backup Admin
-- Configurar base de dados de backup local Admin:
+- **Configurar base de dados de backup local Admin:**
 	- Ir em R3 > CLI
 	- Senha: `ciscoenpa55`
 	- Entrar no modo privilegiado: `enable`
@@ -184,7 +184,7 @@ R3(config)#exit
 ```
 ![[Pasted image 20250418231740.png]]
 ### 1.2. Configuração do servidor RADIUS
-- Verificar a configuração do servidor RADIUS:
+- **Verificar a configuração do servidor RADIUS:**
 	- Ir em servidor RADIUS > Serviços > AAA
 	- Verificar se:
 		-  O cliente R3 está listado com a chave `radiuspa55`
@@ -192,7 +192,7 @@ R3(config)#exit
 
 ![[Pasted image 20250418232041.png]]
 ### 1.3. Configuração RADIUS no R3
-- Configurar servidor RADIUS no R3:
+- **Configurar servidor RADIUS no R3:**
 	- Ir em R3 > CLI
 	- Entrar no modo privilegiado: `enable`
 	- Entrar no modo de configuração global: `configure terminal`
@@ -203,7 +203,7 @@ R3(config)#exit
 
 ![[Pasted image 20250418232510.png]]
 ### 1.4.  Autenticação de login AAA para o acesso no R2
-- Configurar autenticação de login AAA para acesso de controle do R3:
+- **Configurar autenticação de login AAA para acesso de controle do R3:**
 	- Ir em R3 > CLI
 	- Entrar no modo privilegiado: `enable`
 	- Entrar no modo de configuração global: `configure terminal`
@@ -228,7 +228,7 @@ R3(config-line)#end
 ```
 ![[Pasted image 20250418233429.png]]
 ### 1.5. Configuração as linhas vty para usar autenticação AAA
-- Configurar as linhas vty com AAA:
+- **Configurar as linhas vty com AAA:**
 	- Ir em R3 > CLI
 	- Entrar no modo privilegiado: `enable`
 	- Entrar no modo de configuração global: `configure terminal`
@@ -250,7 +250,7 @@ R3(config)#end
 ````
 ![[Pasted image 20250418234625.png]]
 ### 1.6. Verificação de autenticação AAA
-- Verificar login EXEC usando servidor AAA RADIUS:
+- **Verificar login EXEC usando servidor AAA RADIUS:**
 	- Entrar no modo privilegiado: `enable`
 	- Entrar no modo de configuração global: `configure terminal`
 	- Criar AAA: `aaa new-model`
