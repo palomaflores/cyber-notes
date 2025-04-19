@@ -41,4 +41,6 @@ Quando o usuário:
 - [GIT INIT](https://github.com/palomaflores/cyber-notes/blob/main/LINUX/GIT/GIT%20COMANDOS/GIT%20INIT.md)
 - [GIT ADD](https://github.com/palomaflores/cyber-notes/blob/main/LINUX/GIT/GIT%20COMANDOS/GIT%20ADD.md)
 - [GIT COMMIT](https://github.com/palomaflores/cyber-notes/blob/main/LINUX/GIT/GIT%20COMANDOS/GIT%20COMMIT.md)
-- [[GIT REMOTE]]
+- [GIT REMOTE](https://github.com/palomaflores/cyber-notes/blob/main/LINUX/GIT/GIT%20COMANDOS/GIT%20REMOTE.md)
+- [[GIT PUSH]]
+- 
