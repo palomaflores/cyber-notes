@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210
+    "width": 210,
+    "collapsed": true
   },
   "right": {
     "id": "25de422525923f9a",
@@ -170,6 +171,7 @@
   },
   "active": "faf214e68a0bed56",
   "lastOpenFiles": [
+    "CISCO",
     "CISCO - CONFIGURAÇÃO CONTROLE DE ACESSO.md",
     "README.md",
     "CISCO LABORATÓRIOS/AUTENTICAÇÃO SERVIDOR TACACS E RADIUS/CONFIGURAÇÃO AAA com TACACS+ e RADIUS.md",
@@ -188,7 +190,6 @@
     "CISCO LABORATÓRIOS/AUTENTICAÇÃO SERVIDOR TACACS E RADIUS/IMAGENS",
     "GOOGLE CYBERSECURITY/TRILHA GOOGLE CYBERSECURITY.md",
     "CISCO LABORATÓRIOS/AUTENTICAÇÃO SERVIDOR TACACS E RADIUS",
-    "Sem título",
     "GOOGLE CYBERSECURITY/GOOGLE CYBERSECURITY.md",
     "Pasted image 20250418020402.png.md",
     "CISCO LABORATÓRIOS/CONFIGURAÇÃO CONTROLE DE ACESSO/IMAGENS",
