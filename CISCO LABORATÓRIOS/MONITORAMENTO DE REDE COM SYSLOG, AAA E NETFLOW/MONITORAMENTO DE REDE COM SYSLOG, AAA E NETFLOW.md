@@ -17,7 +17,7 @@ Este laboratório tem como objetivos principais:
 | Nível 5 | Notificações |
 | Nível 6 | Informativos |
 | Nível 7 | Depuração    |
-**Obs: Níveis mais baixos representam eventos mais graves.**
+- **Obs: Níveis mais baixos representam eventos mais graves.**
 ### 1.1. Ativar Syslog no servidor
 - Ir em Syslog Server > Services > SYSLOG
 - Ativar o Syslog
