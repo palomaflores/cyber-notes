@@ -37,5 +37,5 @@ Quando o usuário:
 - Envia (`push`) o commit pro GitHub, ele usa o e-mail do commit para associar ele a uma conta
 
 ## Comandos
-- [[GIT HELP]]
-- [[GIT INIT]]
+- [GIT HELP](https://github.com/palomaflores/cyber-notes/blob/main/LINUX/GIT/GIT%20COMANDOS/GIT%20HELP.md)
+- [GIT INIT](https://github.com/palomaflores/cyber-notes/blob/main/LINUX/GIT/GIT%20COMANDOS/GIT%20INIT.md)
