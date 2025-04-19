@@ -37,13 +37,13 @@ Quando o usuário:
 - Envia (`push`) o commit pro GitHub, ele usa o e-mail do commit para associar ele a uma conta
 
 ## Principais comandos
-- [GIT HELP](https://github.com/palomaflores/cyber-notes/blob/main/LINUX/GIT/GIT%20COMANDOS/GIT%20HELP.md)
-- [GIT INIT](https://github.com/palomaflores/cyber-notes/blob/main/LINUX/GIT/GIT%20COMANDOS/GIT%20INIT.md)
-- [GIT ADD](https://github.com/palomaflores/cyber-notes/blob/main/LINUX/GIT/GIT%20COMANDOS/GIT%20ADD.md)
-- [GIT COMMIT](https://github.com/palomaflores/cyber-notes/blob/main/LINUX/GIT/GIT%20COMANDOS/GIT%20COMMIT.md)
-- [GIT REMOTE](https://github.com/palomaflores/cyber-notes/blob/main/LINUX/GIT/GIT%20COMANDOS/GIT%20REMOTE.md)
-- [GIT PUSH](https://github.com/palomaflores/cyber-notes/blob/main/LINUX/GIT/GIT%20COMANDOS/GIT%20PUSH.md)
-- [GIT BRANCH]( )
+- [GIT HELP]()
+- [GIT INIT]()
+- [GIT ADD]()
+- [GIT COMMIT]()
+- [GIT REMOTE]()
+- [GIT PUSH]()
+- [GIT BRANCH]()
 - [GIT CHECKOUT]()
 - [GIT MERGE]()
 

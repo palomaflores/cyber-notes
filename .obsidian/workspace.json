@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINUX/GIT/GIT.md",
+                "file": "LINUX/GIT/GIT COMANDOS/GIT CHECKOUT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GIT"
+              "title": "GIT CHECKOUT"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 210
+    "width": 210,
+    "collapsed": true
   },
   "right": {
     "id": "25de422525923f9a",
@@ -170,15 +171,15 @@
   },
   "active": "3ca09450d29eed7c",
   "lastOpenFiles": [
+    "LINUX/GIT/GIT COMANDOS/GIT PUSH.md",
     "LINUX/GIT/GIT COMANDOS/GIT CHECKOUT.md",
-    "LINUX/GIT/GIT COMANDOS/GIT BRANCH.md",
     "LINUX/GIT/GIT COMANDOS/GIT MERGE.md",
     "LINUX/GIT/GIT.md",
+    "LINUX/GIT/GIT COMANDOS/GIT BRANCH.md",
     "LINUX/GIT/GIT COMANDOS/GIT ADD.md",
     "LINUX/GIT/GIT COMANDOS/GIT COMMIT.md",
     "LINUX/GIT/GIT COMANDOS/GIT INIT.md",
     "LINUX/GIT/GIT COMANDOS/GIT HELP.md",
-    "LINUX/GIT/GIT COMANDOS/GIT PUSH.md",
     "LINUX/GIT/GIT COMANDOS/GIT REMOTE.md",
     "Pasted image 20250419191436.png",
     "LINUX/GIT/GIT COMANDOS/GIT IMAGENS/git init.png",
