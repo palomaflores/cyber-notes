@@ -22,6 +22,6 @@ Estas são algumas das plataformas e recursos que tenho usado ao longo da minha 
 - [OWASP](https://owasp.org/)
 
 # Laboratórios feitos
-CISCO - CONFIGURAÇÃO CONTROLE DE ACESSO
-CISCO - CONFIGURAÇÃO AAA com TACACS+ e RADIUS
+- CISCO - CONFIGURAÇÃO CONTROLE DE ACESSO
+- CISCO - CONFIGURAÇÃO AAA com TACACS+ e RADIUS
 
