@@ -22,5 +22,5 @@ Estas são algumas das plataformas e recursos que tenho usado ao longo da minha 
 - [OWASP](https://owasp.org/)
 
 # Laboratórios realizados
-- [CISCO - CONFIGURAÇÃO CONTROLE DE ACESSO](https://github.com/palomaflores/cyber-notes/tree/main/CISCO%20LABORAT%C3%93RIOS/CONFIGURA%C3%87%C3%83O%20CONTROLE%20DE%20ACESSO)
-- [CISCO - CONFIGURAÇÃO AAA com TACACS+ e RADIUS](https://github.com/palomaflores/cyber-notes/tree/main/CISCO%20LABORAT%C3%93RIOS/AUTENTICA%C3%87%C3%83O%20SERVIDOR%20TACACS%20E%20RADIUS)
+- [CISCO - CONFIGURAÇÃO CONTROLE DE ACESSO](https://github.com/palomaflores/cyber-notes/blob/main/CISCO%20LABORAT%C3%93RIOS/CONFIGURA%C3%87%C3%83O%20CONTROLE%20DE%20ACESSO/CONFIGURA%C3%87%C3%83O%20CONTROLE%20DE%20ACESSO.md)
+- [CISCO - CONFIGURAÇÃO AAA com TACACS+ e RADIUS](https://github.com/palomaflores/cyber-notes/blob/main/CISCO%20LABORAT%C3%93RIOS/AUTENTICA%C3%87%C3%83O%20SERVIDOR%20TACACS%20E%20RADIUS/CONFIGURA%C3%87%C3%83O%20AAA%20com%20TACACS%2B%20e%20RADIUS.md)
