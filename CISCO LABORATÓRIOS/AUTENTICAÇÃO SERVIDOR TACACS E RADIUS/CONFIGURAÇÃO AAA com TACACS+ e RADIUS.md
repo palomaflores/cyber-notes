@@ -280,3 +280,6 @@ R2(config-line)#exit
 2(config)#end
 ```
 ![[Pasted image 20250418235645.png]]
+
+# Conclusão
+![[Pasted image 20250419000111.png]]
