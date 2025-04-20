@@ -36,16 +36,16 @@ Quando o usuário:
 - Faz um commit com o Git, ele assina com o nome e e-mail configurado
 - Envia (`push`) o commit pro GitHub, ele usa o e-mail do commit para associar ele a uma conta
 
-## Principais comandos
-- [GIT HELP]()
-- [GIT INIT]()
-- [GIT ADD]()
-- [GIT COMMIT]()
-- [GIT REMOTE]()
-- [GIT PUSH]()
-- [GIT BRANCH]()
-- [GIT CHECKOUT]()
-- [GIT MERGE]()
+# Principais Comandos
+- [GIT HELP](https://github.com/palomaflores/cyber-notes/blob/main/LINUX/GIT/GIT%20COMANDOS/GIT%20HELP.md)
+- [GIT INIT](https://github.com/palomaflores/cyber-notes/blob/main/LINUX/GIT/GIT%20COMANDOS/GIT%20INIT.md)
+- [GIT ADD](https://github.com/palomaflores/cyber-notes/blob/main/LINUX/GIT/GIT%20COMANDOS/GIT%20ADD.md)
+- [GIT COMMIT](https://github.com/palomaflores/cyber-notes/blob/main/LINUX/GIT/GIT%20COMANDOS/GIT%20COMMIT.md)
+- [GIT REMOTE](https://github.com/palomaflores/cyber-notes/blob/main/LINUX/GIT/GIT%20COMANDOS/GIT%20REMOTE.md)
+- [GIT PUSH](https://github.com/palomaflores/cyber-notes/blob/main/LINUX/GIT/GIT%20COMANDOS/GIT%20PUSH.md)
+- [GIT BRANCH](https://github.com/palomaflores/cyber-notes/blob/main/LINUX/GIT/GIT%20COMANDOS/GIT%20BRANCH.md)
+- [GIT CHECKOUT](https://github.com/palomaflores/cyber-notes/blob/main/LINUX/GIT/GIT%20COMANDOS/GIT%20CHECKOUT.md)
+- [GIT MERGE](https://github.com/palomaflores/cyber-notes/blob/main/LINUX/GIT/GIT%20COMANDOS/GIT%20MERGE.md)
 
 ## Links
 - [GIT DOCUMENTAÇÃO OFICIAL](https://git-scm.com/doc)
